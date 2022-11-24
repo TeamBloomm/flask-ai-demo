@@ -8,4 +8,4 @@ For the back end, rather than creating a machine learning model on your own, you
 
 In this module, we're going to explore Flask and the Translator service. We'll see how we can create a web application to translate text into various languages.
 
-[## Module Link](https://learn.microsoft.com/en-us/training/modules/python-flask-build-ai-web-app/?WT.mc_id=academic-76398-bethanycheum)
+[Module Link](https://learn.microsoft.com/en-us/training/modules/python-flask-build-ai-web-app/?WT.mc_id=academic-76398-bethanycheum)
